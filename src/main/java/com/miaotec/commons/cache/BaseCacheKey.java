@@ -5,7 +5,7 @@ import org.apache.commons.lang3.StringUtils;
 public class BaseCacheKey implements ICacheKey {
 	private String key;
 	/**
-	 * 子key 业务唯一标示 如 用户id 支付流水号等
+	 * 子key 业务唯一标示 如 用户id 支付流水号等111
 	 */
 	private String subKey;
 
